@@ -122,6 +122,14 @@ menu:
     #  name: tags
     #  url: /tags/
     #  weight: 20
+    - identifier: posts
+      name: posts
+      url: /
+      weight: 20
+    - identifier: ideas
+      name: ideas
+      url: /ideas/
+      weight: 20
     - identifier: IIT Palakkad
       name: iitpkd.ac.in
       url: https://iitpkd.ac.in
